@@ -1,0 +1,33 @@
+RMSE: 0.989020754983159
+R2: 0.18677124621500896
+NLPD: 34.197527912904945
+Cross Validation Score: 150.47951863231881
+Sobol Indices: 
+['N'] has sobol 0.000
+['C'] has sobol 0.000
+['P'] has sobol 0.000
+['lignin'] has sobol 0.000
+['cellulose'] has sobol 0.000
+['hemicellulose'] has sobol 0.001
+['wsc'] has sobol 0.000
+['N', 'C'] has sobol 0.002
+['N', 'P'] has sobol 0.003
+['N', 'lignin'] has sobol 0.002
+['N', 'cellulose'] has sobol 0.002
+['N', 'hemicellulose'] has sobol 0.005
+['N', 'wsc'] has sobol 0.002
+['C', 'P'] has sobol 0.002
+['C', 'lignin'] has sobol 0.002
+['C', 'cellulose'] has sobol 0.002
+['C', 'hemicellulose'] has sobol 0.003
+['C', 'wsc'] has sobol 0.002
+['P', 'lignin'] has sobol 0.001
+['P', 'cellulose'] has sobol 0.002
+['P', 'hemicellulose'] has sobol 0.003
+['P', 'wsc'] has sobol 0.002
+['lignin', 'cellulose'] has sobol 0.002
+['lignin', 'hemicellulose'] has sobol 0.002
+['lignin', 'wsc'] has sobol 0.002
+['cellulose', 'hemicellulose'] has sobol 0.002
+['cellulose', 'wsc'] has sobol 0.002
+['hemicellulose', 'wsc'] has sobol 0.003

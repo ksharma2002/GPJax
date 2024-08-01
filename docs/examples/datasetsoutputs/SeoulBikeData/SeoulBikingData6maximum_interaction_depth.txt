@@ -1,0 +1,68 @@
+RMSE: 0.4173636766857157
+R2: 0.466233121166746
+NLPD: 682.9899071201628
+Cross Validation Score: 3406.627815942691
+Sobol Indices: 
+['Hour'] has sobol 0.036
+['Temperature(°C)'] has sobol 0.002
+['Humidity(%)'] has sobol 0.004
+['Wind speed (m/s)'] has sobol 0.002
+['Dew point temperature(°C)'] has sobol 0.002
+['Solar Radiation (MJ/m2)'] has sobol 0.018
+['Hour', 'Temperature(°C)'] has sobol 0.000
+['Hour', 'Humidity(%)'] has sobol 0.000
+['Hour', 'Wind speed (m/s)'] has sobol 0.000
+['Hour', 'Dew point temperature(°C)'] has sobol 0.000
+['Hour', 'Solar Radiation (MJ/m2)'] has sobol 0.019
+['Temperature(°C)', 'Humidity(%)'] has sobol 0.000
+['Temperature(°C)', 'Wind speed (m/s)'] has sobol 0.000
+['Temperature(°C)', 'Dew point temperature(°C)'] has sobol 0.000
+['Temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.001
+['Humidity(%)', 'Wind speed (m/s)'] has sobol 0.000
+['Humidity(%)', 'Dew point temperature(°C)'] has sobol 0.000
+['Humidity(%)', 'Solar Radiation (MJ/m2)'] has sobol 0.001
+['Wind speed (m/s)', 'Dew point temperature(°C)'] has sobol 0.000
+['Wind speed (m/s)', 'Solar Radiation (MJ/m2)'] has sobol 0.001
+['Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.001
+['Hour', 'Temperature(°C)', 'Humidity(%)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Wind speed (m/s)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Dew point temperature(°C)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Humidity(%)', 'Wind speed (m/s)'] has sobol 0.000
+['Hour', 'Humidity(%)', 'Dew point temperature(°C)'] has sobol 0.000
+['Hour', 'Humidity(%)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Wind speed (m/s)', 'Dew point temperature(°C)'] has sobol 0.000
+['Hour', 'Wind speed (m/s)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Temperature(°C)', 'Humidity(%)', 'Wind speed (m/s)'] has sobol 0.000
+['Temperature(°C)', 'Humidity(%)', 'Dew point temperature(°C)'] has sobol 0.000
+['Temperature(°C)', 'Humidity(%)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Temperature(°C)', 'Wind speed (m/s)', 'Dew point temperature(°C)'] has sobol 0.000
+['Temperature(°C)', 'Wind speed (m/s)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Temperature(°C)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Humidity(%)', 'Wind speed (m/s)', 'Dew point temperature(°C)'] has sobol 0.000
+['Humidity(%)', 'Wind speed (m/s)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Humidity(%)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Wind speed (m/s)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Humidity(%)', 'Wind speed (m/s)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Humidity(%)', 'Dew point temperature(°C)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Humidity(%)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Wind speed (m/s)', 'Dew point temperature(°C)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Wind speed (m/s)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Humidity(%)', 'Wind speed (m/s)', 'Dew point temperature(°C)'] has sobol 0.000
+['Hour', 'Humidity(%)', 'Wind speed (m/s)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Humidity(%)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Wind speed (m/s)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Temperature(°C)', 'Humidity(%)', 'Wind speed (m/s)', 'Dew point temperature(°C)'] has sobol 0.000
+['Temperature(°C)', 'Humidity(%)', 'Wind speed (m/s)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Temperature(°C)', 'Humidity(%)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Temperature(°C)', 'Wind speed (m/s)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Humidity(%)', 'Wind speed (m/s)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Humidity(%)', 'Wind speed (m/s)', 'Dew point temperature(°C)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Humidity(%)', 'Wind speed (m/s)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Humidity(%)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Wind speed (m/s)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Humidity(%)', 'Wind speed (m/s)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Temperature(°C)', 'Humidity(%)', 'Wind speed (m/s)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000
+['Hour', 'Temperature(°C)', 'Humidity(%)', 'Wind speed (m/s)', 'Dew point temperature(°C)', 'Solar Radiation (MJ/m2)'] has sobol 0.000

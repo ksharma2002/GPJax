@@ -1,0 +1,12 @@
+RMSE: 0.9490081186095125
+R2: 0.2196718969342616
+NLPD: 42.42101735230326
+Cross Validation Score: 163.61941411617113
+Sobol Indices: 
+['N'] has sobol 0.217
+['C'] has sobol 0.015
+['P'] has sobol 0.199
+['lignin'] has sobol 0.016
+['cellulose'] has sobol 0.092
+['hemicellulose'] has sobol 0.133
+['wsc'] has sobol 0.017

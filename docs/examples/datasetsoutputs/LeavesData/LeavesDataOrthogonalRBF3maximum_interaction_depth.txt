@@ -1,0 +1,68 @@
+RMSE: 0.23007199029166614
+R2: 0.8108218083361556
+NLPD: 13.916477454869923
+Cross Validation Score: 76.27949858933475
+Sobol Indices: 
+['N'] has sobol 0.063
+['C'] has sobol 0.001
+['P'] has sobol 0.029
+['lignin'] has sobol 0.014
+['cellulose'] has sobol 0.006
+['hemicellulose'] has sobol 0.023
+['wsc'] has sobol 0.000
+['N', 'C'] has sobol 0.000
+['N', 'P'] has sobol 0.002
+['N', 'lignin'] has sobol 0.001
+['N', 'cellulose'] has sobol 0.004
+['N', 'hemicellulose'] has sobol 0.002
+['N', 'wsc'] has sobol 0.000
+['C', 'P'] has sobol 0.001
+['C', 'lignin'] has sobol 0.000
+['C', 'cellulose'] has sobol 0.000
+['C', 'hemicellulose'] has sobol 0.000
+['C', 'wsc'] has sobol 0.000
+['P', 'lignin'] has sobol 0.003
+['P', 'cellulose'] has sobol 0.009
+['P', 'hemicellulose'] has sobol 0.011
+['P', 'wsc'] has sobol 0.001
+['lignin', 'cellulose'] has sobol 0.002
+['lignin', 'hemicellulose'] has sobol 0.001
+['lignin', 'wsc'] has sobol 0.000
+['cellulose', 'hemicellulose'] has sobol 0.003
+['cellulose', 'wsc'] has sobol 0.000
+['hemicellulose', 'wsc'] has sobol 0.000
+['N', 'C', 'P'] has sobol 0.000
+['N', 'C', 'lignin'] has sobol 0.000
+['N', 'C', 'cellulose'] has sobol 0.000
+['N', 'C', 'hemicellulose'] has sobol 0.000
+['N', 'C', 'wsc'] has sobol 0.000
+['N', 'P', 'lignin'] has sobol 0.001
+['N', 'P', 'cellulose'] has sobol 0.003
+['N', 'P', 'hemicellulose'] has sobol 0.003
+['N', 'P', 'wsc'] has sobol 0.000
+['N', 'lignin', 'cellulose'] has sobol 0.003
+['N', 'lignin', 'hemicellulose'] has sobol 0.002
+['N', 'lignin', 'wsc'] has sobol 0.000
+['N', 'cellulose', 'hemicellulose'] has sobol 0.001
+['N', 'cellulose', 'wsc'] has sobol 0.000
+['N', 'hemicellulose', 'wsc'] has sobol 0.000
+['C', 'P', 'lignin'] has sobol 0.000
+['C', 'P', 'cellulose'] has sobol 0.000
+['C', 'P', 'hemicellulose'] has sobol 0.000
+['C', 'P', 'wsc'] has sobol 0.000
+['C', 'lignin', 'cellulose'] has sobol 0.000
+['C', 'lignin', 'hemicellulose'] has sobol 0.000
+['C', 'lignin', 'wsc'] has sobol 0.000
+['C', 'cellulose', 'hemicellulose'] has sobol 0.000
+['C', 'cellulose', 'wsc'] has sobol 0.000
+['C', 'hemicellulose', 'wsc'] has sobol 0.000
+['P', 'lignin', 'cellulose'] has sobol 0.012
+['P', 'lignin', 'hemicellulose'] has sobol 0.002
+['P', 'lignin', 'wsc'] has sobol 0.001
+['P', 'cellulose', 'hemicellulose'] has sobol 0.005
+['P', 'cellulose', 'wsc'] has sobol 0.001
+['P', 'hemicellulose', 'wsc'] has sobol 0.000
+['lignin', 'cellulose', 'hemicellulose'] has sobol 0.001
+['lignin', 'cellulose', 'wsc'] has sobol 0.000
+['lignin', 'hemicellulose', 'wsc'] has sobol 0.000
+['cellulose', 'hemicellulose', 'wsc'] has sobol 0.000
